@@ -110,7 +110,7 @@
 - 测试环境wifi，Andriod 6.0.1，微信6.6.5，LEX726
 - 测试环境wifi，Andriod 7.1.2，微信6.6.7，红米5 Plus
 
-可以根据情况，选择以上手机作为测试机。
+可以根据情况，选择以上手机作为测试机。(通过二手平台购买可以节省成本。)
 
 ## 赚取收入
 
@@ -125,6 +125,8 @@
 
 微信小程序官方邮件地址：MiniProgram#tencent.com （将#换成@）
 
-如有疑问，或发现错误，请评论反馈。
+如有疑问，或发现错误，请评论反馈。欢迎加我微信，拉你进小程序交流群。
 
-更新时间：2018/12/8
+![image](https://raw.githubusercontent.com/lingziyao115/miniprogram/master/images/_img/weixin_qr_code.png)
+
+更新时间：2019/2/28
