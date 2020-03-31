@@ -139,10 +139,12 @@
 
 微信小程序官方邮件地址：MiniProgram#tencent.com （将#换成@）
 
-如有疑问，或发现错误，请评论反馈。欢迎加我微信，拉你进小程序交流群。
+如有疑问，或发现错误，请评论反馈。
 
-![image](https://raw.githubusercontent.com/lingziyao115/miniprogram/master/images/_img/weixin_qr_code.png)
+如果本文对你有帮助，请赞赏一杯可乐^^
 
-本文档将持续更新
+![image](https://raw.githubusercontent.com/lingziyao115/miniprogram/master/images/_img/payment.jpg)
+
+本文将持续更新
 
 最近更新：2020/03
